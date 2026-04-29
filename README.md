@@ -1,7 +1,11 @@
 # Pi_MP3
 (NOT FINISHED)raspberry Pi zero 2wh with a pirate audio HAT mp3 player
 
+Quick Review of project:
 
+MP3 player based off of a Raspberry Pi Zero 2 W, with a HAT on it that has buttons, and a display so you can see what is playing, and controll playback fully locally and offline.
+
+---------------------
 Week 12 Update:
     Goal: research Materials
     
