@@ -37,6 +37,9 @@ April 29 Update: Renamed repo to Pi_MP3 due to issues. Having ssh/serial device 
 
 April 29 v2: Test to make sure commit still works
 
+April 30 Update: Made a breakthrough, got pi to work as RNDIS credit to the following github repo
+https://github.com/raspberrypi/rpi-usb-gadget/releases
+
 ---
 Week 16 Update:
 Goal: Code UI/Kernel, Obtain MP3's of audio.
