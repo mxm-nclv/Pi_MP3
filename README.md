@@ -50,7 +50,9 @@ May 4th Update: Brought Pi4B from home, headers are too short, heatsink gets in 
 
 May 5th Update: Haven't found Pi3 Yet, need to search at home
 
-May 5th night/6th Update: found Pi3, and got volumio running thru cloud(yippee!) and got some audio running, working on getting it 100% local
+May 5th night/6th Update: found Pi3, and got volumio running from microsd.
+
+May 6th Update: worked a bit more, running 2 wires out(1 for power to microUSB, one for ethernet data transfer from pi<->laptop), some audio working but you need pc to start/stop, working on getting it fully local.
 
 ---
 Week 17 Update:
