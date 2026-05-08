@@ -56,7 +56,7 @@ May 8th Update: Software corrupted(Big Bad, means I can't work untill i recover)
 
 ---
 Week 17 Update:
-Goal: Final tweaks, debug, make sure works consistently
+Goal: Final tweaks, debug, make sure works consistently?
 
 ---
 Week 18 Update:
