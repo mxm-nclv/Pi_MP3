@@ -50,6 +50,10 @@ May 4th Update: Brought Pi4B from home, headers are too short, heatsink gets in 
 
 May 5th Update: Haven't found Pi3 Yet, need to search at home
 
+May 7th Update: Got it working, with full local playing, and then it failed, got working again at home, idk honestly, probably just some little bug, needs fixing
+
+May 8th Update: Software corrupted(Big Bad, means I can't work untill i recover), had to reflash and can't ssh back in anymore(school wifi problem?)(dont know why) will solve over the weekend and make sure works consistently.
+
 ---
 Week 17 Update:
 Goal: Final tweaks, debug, make sure works consistently
