@@ -58,6 +58,8 @@ May 8th Update: Software corrupted(Big Bad, means I can't work untill i recover)
 Week 17 Update:
 Goal: Final tweaks, debug, make sure works consistently?
 
+May 11th Night: Got Pi_Os running off of one microsd to confirm the board isnt fried, and then got volumio setup so I can get back to progress. All data recovered, continuing work on May 12th.
+
 ---
 Week 18 Update:
 Goal: Present!
