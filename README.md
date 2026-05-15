@@ -60,7 +60,9 @@ Goal: Final tweaks, debug, make sure works consistently?
 
 May 11th Night: Got Pi_Os running off of one microsd to confirm the board isnt fried, and then got volumio setup so I can get back to progress. All data recovered, continuing work on May 12th.
 
-May 12th Update: It is 10 night, and we have progress!!!!!!. it can run fully local, and after like 4 weeks of pain, suffering, and trying not to get electrocuted, we got it working!!!!!!!! time to not breathe on it wrong and hope it works lol.
+May 12th Update: It is 10 at night, and we have progress!!!!!!. it can run fully local, and after like 4 weeks of pain, suffering, and trying not to get electrocuted, we got it working!!!!!!!! time to not breathe on it wrong and hope it works lol.
+
+May 14th Update: Added More things to main, took screenshots of project.
 
 ---
 Week 18 Update:
